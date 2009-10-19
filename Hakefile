@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Hakefile>
+ <Programname Name="hakeprog"/>
+ <Typedefaults>
+  <Filetype_Default filetype=".s" options="yasm -c"/>
+  <Filetype_Default filetype=".d" options="ldc -c"/>
+ </Typedefaults>
+ <Outdir OutDir="outdir"/>
+ <!--<Exceptions File="indir2/exceptionfile.d" Options="ldc -I./indir2 -c -nodefaultlib"/> -->
+ <Inputdir Name="kernel">
+  <Compile_Options Filetyp=".d" Options="-I. -nodefaultlib"/>
+ </Inputdir>
+ <Linker Linker="ldc " LinkerOptions="-nodefaultlib"/>
+</Hakefile>

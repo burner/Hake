@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<hake>
+ <Files>
+  <File File="./kernel/arch/x86_64/imports/architecture.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/arch/x86/imports/architecture.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/precision.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/moduleinit.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_void.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_uint.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_ifloat.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_cfloat.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_Ashort.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_Acreal.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_double.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_char.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_ushort.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_short.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_int.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_ulong.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_byte.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_cdouble.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_float.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_AC.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_idouble.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_delegate.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_ptr.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_creal.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_Along.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_Areal.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_Acfloat.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_C.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_ubyte.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_Ag.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_Afloat.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_long.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_ireal.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_Acdouble.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_Aint.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_dchar.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_wchar.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_real.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/std/typeinfo/ti_Adouble.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/dstubs.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/invariant.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/object.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/runtime/util.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/core/kmain.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/core/util.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/core/kprintf.d" LastFileCompile="1251654303"/>
+  <File File="./kernel/dev/console.d" LastFileCompile="1251654303"/>
+ </Files>
+</hake>
